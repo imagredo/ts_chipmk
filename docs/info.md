@@ -13,7 +13,8 @@ Explain how your project works
 
 ## How to test
 
-Explain how to use your project
+ANY
+
 
 ## External hardware
 
